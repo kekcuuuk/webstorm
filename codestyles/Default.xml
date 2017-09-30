@@ -12,7 +12,6 @@
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
-    <option name="INDENT_CHAINED_CALLS" value="false" />
   </JSCodeStyleSettings>
   <JSON>
     <option name="SPACE_BEFORE_COLON" value="true" />
@@ -26,8 +25,10 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+    <option name="PREFER_PARAMETERS_WRAP" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="Twig">
     <option name="RIGHT_MARGIN" value="120" />
